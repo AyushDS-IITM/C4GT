@@ -3,19 +3,19 @@
 <table>
   <tr>
     <td>Name</td>
-    <td>Shruti Agarwal</td>
+    <td>Ayush Mathpal</td>
   </tr>
   <tr>
     <td>GitHub</td>
-    <td>https://github.com/Shruti3004</td>
+    <td>https://github.com/AyushDS-IITM</td>
   </tr>
   <tr>
     <td>LinkedIn</td>
-    <td>https://www.linkedin.com/in/shruti-ag</td>
+    <td>https://www.linkedin.com/in/ayush-mathpal-61a33a3aa</td>
   </tr>
   <tr>
     <td>College</td>
-    <td>JSS Academy of Technical Education, Noida</td>
+    <td>Indian Institute of Technology Madras</td>
   </tr>
 </table>
 <table>
